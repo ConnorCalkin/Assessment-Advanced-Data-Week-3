@@ -1,0 +1,8 @@
+ipykernel
+pandas
+pylint
+pytest
+altair
+vl-convert-python
+nltk
+stop-words
